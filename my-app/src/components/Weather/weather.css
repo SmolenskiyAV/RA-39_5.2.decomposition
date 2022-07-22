@@ -1,0 +1,26 @@
+/* Local Componet`s Styles */
+
+.weatherWidget {
+  display: flex;
+  
+}
+
+.weatherWidget img {
+  width: 50px;
+}
+
+.nowTemperature {
+  display: flex;
+  flex-wrap: nowrap;
+  font-size: xx-large;
+}
+
+.otherTemperature {
+  display: flex;
+  flex-direction: column;
+}
+
+.otherTemperature span {
+  margin: 4px;
+  font-size:small;
+}

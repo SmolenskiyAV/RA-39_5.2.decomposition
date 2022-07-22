@@ -1,0 +1,41 @@
+/* Local Componet`s Styles */
+
+.politicNews {
+  margin-top: 10px;
+}
+
+.politicNews div {
+  display: flex;
+  font-size: small;
+}
+
+.politicNews img {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+} 
+
+.politicNews a:link {
+  color: black;
+}
+
+.politicNews a:active {
+  color: green;
+}
+
+.politicNews a:hover {
+  color: red;
+}
+
+.currencyExchangeNews {
+  display: flex;
+  margin-top: 6px;
+}
+
+.currencyExchangeNews div {
+  margin-left: 10px;
+}
+
+.newsWidget {
+  margin-left: 60px;
+}

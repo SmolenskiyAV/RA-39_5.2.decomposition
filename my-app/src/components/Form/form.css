@@ -1,0 +1,24 @@
+/* Local Componet`s Styles */
+
+.st{
+  /*отключаем стандартное оформление*/
+  appearance: none;
+  border: 0;
+  /*делаем кнопку жёлтой*/
+  background-color: #ffdb4d;
+  /*размер шрифта и кнопки*/
+  font-size: 20px;
+  width: 70px;
+  height: 44px;
+  /*настраиваем отступы*/
+  padding: 9px;
+  padding-top: 14px;
+  padding-bottom: 10px;
+  /*сдвигаем текст вплотную к кнопке*/
+ 
+}
+
+.form {
+  height: 44px;
+  display: flex;
+}
